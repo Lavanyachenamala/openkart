@@ -1,0 +1,13 @@
+23:00:37.032[main] INFO  testCases.Tc_002_Verify_login_Details - validing the user valid credentials 
+23:00:38.430[main] INFO  testCases.Tc_002_Verify_login_Details - finished validating the test case 
+17:04:07.573[main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lavan\eclipse-workspace\second\openkart\MasterSuite.xml"
+17:04:14.377[main] INFO  testCases.Tc_001_Accout_registartion - ***Starting the Tc_001_Accout_registartion***
+17:04:14.400[main] INFO  testCases.Tc_001_Accout_registartion - ***clicked on the account link***
+17:04:14.579[main] INFO  testCases.Tc_001_Accout_registartion - ***clicked on  the register link***
+17:04:15.406[main] INFO  testCases.Tc_001_Accout_registartion - ***providing all necessary details***
+17:04:17.423[main] INFO  testCases.Tc_001_Accout_registartion - ***validating the account**
+17:04:17.466[main] INFO  testCases.Tc_001_Accout_registartion - test case execution finished succesffully
+17:04:21.943[main] INFO  testCases.Tc_002_Verify_login_Details - clicking the account link 
+17:04:22.050[main] INFO  testCases.Tc_002_Verify_login_Details - clicking the login link 
+17:04:22.565[main] INFO  testCases.Tc_002_Verify_login_Details - validing the user valid credentials 
+17:04:23.885[main] INFO  testCases.Tc_002_Verify_login_Details - finished validating the test case 
